@@ -1,4 +1,4 @@
-# Impacto do Desmatamento
+# Consumo Consciente e Sustentabilidade
  Este projeto é uma página web informativa sobre os impactos da falta de consumo consciente e sustentabilidade na qualidade de vida das pessoas e do meio ambiente.
 Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela falta de mudanças nos hábitos nas estruturas produtivas,
 suas consequências, para refletir sobre a importancia de consumir de forma consciente.
